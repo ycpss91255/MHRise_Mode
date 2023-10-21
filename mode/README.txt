@@ -22,4 +22,26 @@ Mod 內容
 	- 可以購買一些有用的耕種物
 9. Infinite Village Wirebugs
 	- 村莊內無限蟲
-10. 
+10. auto argosy
+	- 自動接收交易船物品並補充討價還價技巧
+11. Seconds Please - Eat Dango Again
+	- 可以重複吃糰子
+12. Qurious Cheating (Augmentation cheat)
+	- 傀異防裝煉成可自訂
+
+- https://mhrise.wiki-db.com/sim/?hl=zh-hant
+13. Qurious Exporter (REFramework)
+	- 匯出傀異防裝
+	- MonsterHunterRise\reframework\data\QuriousExporter
+14. Talisman Exporter (REFramework)
+	- 匯出護石
+	- MonsterHunterRise\reframework\data\TalismanExporter
+
+15. itemSetAutoResupply
+	- 可以自動補充所選的物品清單
+16. Infinite Buddy Recon
+	- 無限使用探查隊
+17. Monster Spawn Area
+	- 固定怪物出現的位置
+18. Remove required material types gathered message (Wishlist spam fix)
+	- 安靜的願望清單
