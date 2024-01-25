@@ -28,20 +28,19 @@ Mod 內容
 	- 可以重複吃糰子
 12. Qurious Cheating (Augmentation cheat)
 	- 傀異防裝煉成可自訂
+13. itemSetAutoResupply
+	- 可以自動補充所選的物品清單
+14. Infinite Buddy Recon
+	- 無限使用探查隊
+15. Monster Spawn Area
+	- 固定怪物出現的位置
+16. Remove required material types gathered message (Wishlist spam fix)
+	- 安靜的願望清單
 
 - https://mhrise.wiki-db.com/sim/?hl=zh-hant
-13. Qurious Exporter (REFramework)
+17. Qurious Exporter (REFramework)
 	- 匯出傀異防裝
 	- MonsterHunterRise\reframework\data\QuriousExporter
-14. Talisman Exporter (REFramework)
+18. Talisman Exporter (REFramework)
 	- 匯出護石
 	- MonsterHunterRise\reframework\data\TalismanExporter
-
-15. itemSetAutoResupply
-	- 可以自動補充所選的物品清單
-16. Infinite Buddy Recon
-	- 無限使用探查隊
-17. Monster Spawn Area
-	- 固定怪物出現的位置
-18. Remove required material types gathered message (Wishlist spam fix)
-	- 安靜的願望清單
